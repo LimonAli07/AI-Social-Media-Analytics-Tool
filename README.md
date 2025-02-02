@@ -15,4 +15,4 @@ This tool analyzes Instagram performance metrics such as likes, comments, and en
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/AI-Social-Media-Analytics-Tool.git
+   git clone https://github.com/LimonAli07/AI-Social-Media-Analytics-Tool.git
